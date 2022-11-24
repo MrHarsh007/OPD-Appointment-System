@@ -2,5 +2,6 @@
 
 OPD Appointment is a doctor appointment app. Written in Flutter. 
 
-<img src="https://user-images.githubusercontent.com/74703957/203699824-084b509f-c60b-4ae6-ad2e-e32e807f602c.jpg" width="200" height="360" /> 
+<img src="https://user-images.githubusercontent.com/74703957/203700490-1d4e6356-2796-4fcb-8ee8-64ff0ca65daf.jpeg" width="250" height="400" /> 
+<img src="https://user-images.githubusercontent.com/74703957/203700498-3bf06a8b-90f3-4673-8fd5-d315727acf17.jpeg" width="250" height="400" /> 
 
